@@ -8,7 +8,7 @@
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd student-registration-app
+   cd stanley_student-app
    ```
 
 2. **Create a MySQL database**:
